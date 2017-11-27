@@ -1,0 +1,1013 @@
+[
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtEncoding",
+      "elementPos": 3,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "url",
+      "type": "text",
+      "id": "url",
+      "elementPos": 4,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "textarea",
+      "id": "txt1",
+      "elementPos": 6,
+      "namePos": 0,
+      "value": "ID,dataDescription,dataValue,dataDate\n0,Application Performance,98.89,2017-08-09\n0,Average Operation Time,3.09,2017-08-09\n0,Total Operations,582000,2017-08-09\n0,Slow Operations,68700,2017-08-09\n0,Unique Users,42400,2017-08-09\n0,Number of Changes,2,2017-08-09\n0,Number of Critical Events,0,2017-08-09\n0,Number of Issues Identified,3,2017-08-09\n"
+   },
+   {
+      "form": 0,
+      "name": "chkHeader",
+      "type": "checkbox",
+      "id": "chkHeader",
+      "elementPos": 10,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtRowLimit",
+      "elementPos": 11,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepAuto",
+      "elementPos": 12,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepComma",
+      "elementPos": 13,
+      "checked": true,
+      "namePos": 1,
+      "value": ","
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepSemicolon",
+      "elementPos": 14,
+      "checked": false,
+      "namePos": 2,
+      "value": ";"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepColon",
+      "elementPos": 15,
+      "checked": false,
+      "namePos": 3,
+      "value": ":"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepPipe",
+      "elementPos": 16,
+      "checked": false,
+      "namePos": 4,
+      "value": "|"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepTab",
+      "elementPos": 17,
+      "checked": false,
+      "namePos": 5,
+      "value": "\\t"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepCaret",
+      "elementPos": 18,
+      "checked": false,
+      "namePos": 6,
+      "value": "^"
+   },
+   {
+      "form": 0,
+      "name": "sep",
+      "type": "radio",
+      "id": "sepSpace",
+      "elementPos": 19,
+      "checked": false,
+      "namePos": 7,
+      "value": " "
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkReplaceAccents",
+      "elementPos": 20,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkIgnoreDoubleQuote",
+      "elementPos": 21,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkInputQuote",
+      "elementPos": 22,
+      "checked": false,
+      "namePos": 0,
+      "value": "'"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkDecodeLiterals",
+      "elementPos": 23,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "",
+      "elementPos": 25,
+      "namePos": 0,
+      "value": "Query Builder"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkIgnoreCase",
+      "elementPos": 27,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld1",
+      "elementPos": 28,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType1",
+      "elementPos": 29,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc1",
+      "elementPos": 30,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld2",
+      "elementPos": 31,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType2",
+      "elementPos": 32,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc2",
+      "elementPos": 33,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortFld3",
+      "elementPos": 34,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortType3",
+      "elementPos": 35,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selSortAsc3",
+      "elementPos": 36,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "chkWrapFields",
+      "type": "checkbox",
+      "id": "chkWrapFields",
+      "elementPos": 37,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "nameWrapper",
+      "type": "radio",
+      "id": "chkQuote",
+      "elementPos": 38,
+      "checked": true,
+      "namePos": 0,
+      "value": "\""
+   },
+   {
+      "form": 0,
+      "name": "nameWrapper",
+      "type": "radio",
+      "id": "chkBackTick",
+      "elementPos": 39,
+      "checked": false,
+      "namePos": 1,
+      "value": "`"
+   },
+   {
+      "form": 0,
+      "name": "nameWrapper",
+      "type": "radio",
+      "id": "chkBrackets",
+      "elementPos": 40,
+      "checked": false,
+      "namePos": 2,
+      "value": "[]"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 41,
+      "checked": true,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 42,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 43,
+      "checked": true,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 44,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 45,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "",
+      "elementPos": 46,
+      "checked": true,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fname1",
+      "elementPos": 47,
+      "checked": false,
+      "namePos": 0,
+      "value": "ID"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "ftype1",
+      "elementPos": 48,
+      "namePos": 0,
+      "value": "IT"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fsize1",
+      "elementPos": 49,
+      "checked": false,
+      "namePos": 0,
+      "value": "1"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdec1",
+      "elementPos": 50,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "fkey1",
+      "elementPos": 51,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "finc1",
+      "elementPos": 52,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "freq1",
+      "elementPos": 53,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrim1",
+      "elementPos": 54,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper1",
+      "elementPos": 55,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower1",
+      "elementPos": 56,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull1",
+      "elementPos": 57,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "ftem1",
+      "elementPos": 58,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fname2",
+      "elementPos": 59,
+      "checked": false,
+      "namePos": 0,
+      "value": "dataDescription"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "ftype2",
+      "elementPos": 60,
+      "namePos": 0,
+      "value": "VC"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fsize2",
+      "elementPos": 61,
+      "checked": false,
+      "namePos": 0,
+      "value": "27"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdec2",
+      "elementPos": 62,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "fkey2",
+      "elementPos": 63,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "finc2",
+      "elementPos": 64,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "freq2",
+      "elementPos": 65,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrim2",
+      "elementPos": 66,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper2",
+      "elementPos": 67,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower2",
+      "elementPos": 68,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull2",
+      "elementPos": 69,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "ftem2",
+      "elementPos": 70,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fname3",
+      "elementPos": 71,
+      "checked": false,
+      "namePos": 0,
+      "value": "dataValue"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "ftype3",
+      "elementPos": 72,
+      "namePos": 0,
+      "value": "N"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fsize3",
+      "elementPos": 73,
+      "checked": false,
+      "namePos": 0,
+      "value": "6"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdec3",
+      "elementPos": 74,
+      "checked": false,
+      "namePos": 0,
+      "value": "2"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "fkey3",
+      "elementPos": 75,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "finc3",
+      "elementPos": 76,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "freq3",
+      "elementPos": 77,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrim3",
+      "elementPos": 78,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper3",
+      "elementPos": 79,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower3",
+      "elementPos": 80,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull3",
+      "elementPos": 81,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "ftem3",
+      "elementPos": 82,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fname4",
+      "elementPos": 83,
+      "checked": false,
+      "namePos": 0,
+      "value": "dataDate"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "ftype4",
+      "elementPos": 84,
+      "namePos": 0,
+      "value": "D"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fsize4",
+      "elementPos": 85,
+      "checked": false,
+      "namePos": 0,
+      "value": "10"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fdec4",
+      "elementPos": 86,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "fkey4",
+      "elementPos": 87,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "finc4",
+      "elementPos": 88,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "freq4",
+      "elementPos": 89,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "ftrim4",
+      "elementPos": 90,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chkupper4",
+      "elementPos": 91,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chklower4",
+      "elementPos": 92,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "checkbox",
+      "id": "chknull4",
+      "elementPos": 93,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "ftem4",
+      "elementPos": 94,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "tabname",
+      "type": "text",
+      "id": "tabname",
+      "elementPos": 95,
+      "checked": false,
+      "namePos": 0,
+      "value": "Banner_FrontPage"
+   },
+   {
+      "form": 0,
+      "name": "chkDropTable",
+      "type": "checkbox",
+      "id": "chkDropTable",
+      "elementPos": 96,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "chkTableExists",
+      "type": "checkbox",
+      "id": "chkTableExists",
+      "elementPos": 97,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "chkTable",
+      "type": "checkbox",
+      "id": "chkTable",
+      "elementPos": 98,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "chkTableNotExists",
+      "type": "checkbox",
+      "id": "chkTableNotExists",
+      "elementPos": 99,
+      "checked": false,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "selAutoIncrement",
+      "type": "select-one",
+      "id": "selAutoIncrement",
+      "elementPos": 100,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "chkReplace",
+      "type": "checkbox",
+      "id": "chkReplace",
+      "elementPos": 102,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "chkUseTerseValues",
+      "type": "checkbox",
+      "id": "chkUseTerseValues",
+      "elementPos": 103,
+      "checked": false,
+      "namePos": 0,
+      "value": "on"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtUseTerseValuesSize",
+      "elementPos": 104,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "txtInsertText",
+      "type": "text",
+      "id": "txtInsertText",
+      "elementPos": 105,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "chkDual",
+      "type": "checkbox",
+      "id": "chkDual",
+      "elementPos": 107,
+      "checked": false,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "txtDual",
+      "elementPos": 108,
+      "checked": false,
+      "namePos": 0,
+      "value": "dual"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "selBatch",
+      "elementPos": 109,
+      "namePos": 0,
+      "value": ""
+   },
+   {
+      "form": 0,
+      "name": "chkNull",
+      "type": "checkbox",
+      "id": "chkNull",
+      "elementPos": 110,
+      "checked": true,
+      "namePos": 0,
+      "value": "Y"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "textarea",
+      "id": "txta",
+      "elementPos": 116,
+      "namePos": 0,
+      "value": "INSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Application Performance',98.89,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Average Operation Time',3.09,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Total Operations',582000,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Slow Operations',68700,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Unique Users',42400,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Number of Changes',2,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Number of Critical Events',0,'2017-08-09');\nINSERT INTO Flashline_FrontPage(ID,dataDescription,dataValue,dataDate) VALUES (0,'Number of Issues Identified',3,'2017-08-09');\n"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "text",
+      "id": "fn",
+      "elementPos": 117,
+      "checked": false,
+      "namePos": 0,
+      "value": "convertcsv"
+   },
+   {
+      "form": 0,
+      "name": "",
+      "type": "select-one",
+      "id": "eol",
+      "elementPos": 119,
+      "namePos": 0,
+      "value": ""
+   }
+]
